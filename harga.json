@@ -1,0 +1,54 @@
+{
+  "Kitsune": {
+    "price": 150000,
+    "stock": 5
+  },
+  "Raccon": {
+    "price": 75000,
+    "stock": 8
+  },
+  "Disco bee": {
+    "price": 200000,
+    "stock": 3
+  },
+  "Trex": {
+    "price": 500000,
+    "stock": 2
+  },
+  "Corupt kitsune": {
+    "price": 300000,
+    "stock": 4
+  },
+  "Spino": {
+    "price": 450000,
+    "stock": 1
+  },
+  "Dragon fly": {
+    "price": 100000,
+    "stock": 7
+  },
+  "Butter fly": {
+    "price": 80000,
+    "stock": 10
+  },
+  "Mimic octopus": {
+    "price": 250000,
+    "stock": 6
+  },
+  "Queen bee": {
+    "price": 350000,
+    "stock": 3
+  },
+  "Red fox": {
+    "price": 120000,
+    "stock": 9
+  },
+  "Femeck fox": {
+    "price": 180000,
+    "stock": 4
+  },
+  "Chikend zombie": {
+    "price": 90000,
+    "stock": 12
+  }
+}
