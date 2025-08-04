@@ -313,7 +313,7 @@ Please confirm this order and provide payment instructions.
 Thank you for choosing ApparelZx! 🎮`;
     
     // Open WhatsApp
-    const whatsappUrl = `https://wa.me/6283140962760?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/6285608790822?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
     
     // Close modal
