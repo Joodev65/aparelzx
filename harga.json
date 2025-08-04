@@ -1,54 +1,54 @@
 {
   "Kitsune": {
-    "price": 15000,
-    "stock": 1
+    "price": 220000,
+    "stock": 0
   },
   "Raccon": {
-    "price": 20000,
-    "stock": 1
+    "price": 75000,
+    "stock": 0
   },
   "Disco bee": {
-    "price": 200000,
-    "stock": 3
+    "price": 70000,
+    "stock": 0
   },
   "Trex": {
-    "price": 500000,
-    "stock": 2
+    "price": 20000,
+    "stock": 0
   },
   "Corupt kitsune": {
-    "price": 300000,
-    "stock": 4
+    "price": 15000,
+    "stock": 0
   },
   "Spino": {
-    "price": 450000,
-    "stock": 1
+    "price": 30000,
+    "stock": 0
   },
   "Dragon fly": {
-    "price": 100000,
-    "stock": 7
+    "price": 30000,
+    "stock": 0
   },
   "Butter fly": {
-    "price": 80000,
-    "stock": 10
+    "price": 40000,
+    "stock": 0
   },
   "Mimic octopus": {
-    "price": 250000,
-    "stock": 6
+    "price": 15000,
+    "stock": 0
   },
   "Queen bee": {
-    "price": 350000,
-    "stock": 3
+    "price": 13000,
+    "stock": 0
   },
   "Red fox": {
-    "price": 120000,
-    "stock": 9
+    "price": 7000,
+    "stock": 0
   },
   "Femeck fox": {
-    "price": 180000,
-    "stock": 4
+    "price": 40000,
+    "stock": 0
   },
   "Chikend zombie": {
-    "price": 90000,
-    "stock": 12
+    "price": 13000,
+    "stock": 0
   }
 }
