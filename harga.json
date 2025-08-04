@@ -1,11 +1,11 @@
 {
   "Kitsune": {
-    "price": 150000,
-    "stock": 5
+    "price": 15000,
+    "stock": 1
   },
   "Raccon": {
-    "price": 75000,
-    "stock": 8
+    "price": 20000,
+    "stock": 1
   },
   "Disco bee": {
     "price": 200000,
