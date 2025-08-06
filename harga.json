@@ -4,8 +4,8 @@
     "stock": 0
   },
   "Raccon": {
-    "price": 75000,
-    "stock": 0
+    "price": 130000/150000,
+    "stock": 2
   },
   "Disco bee": {
     "price": 70000,
@@ -41,7 +41,7 @@
   },
   "Red fox": {
     "price": 5000,
-    "stock": 0
+    "stock": 1
   },
   "Feneck fox": {
     "price": 40000,
