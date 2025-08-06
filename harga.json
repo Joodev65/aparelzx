@@ -16,8 +16,8 @@
     "stock": 0
   },
   "Corupt kitsune": {
-    "price": 15000,
-    "stock": 0
+    "price": 10000,
+    "stock": 24
   },
   "Spino": {
     "price": 30000,
@@ -25,7 +25,7 @@
   },
   "Dragon fly": {
     "price": 25000,
-    "stock": 1
+    "stock": 0
   },
   "Butter fly": {
     "price": 40000,
@@ -40,10 +40,10 @@
     "stock": 0
   },
   "Red fox": {
-    "price": 7000,
-    "stock": 1
+    "price": 5000,
+    "stock": 2
   },
-  "Femeck fox": {
+  "Feneck fox": {
     "price": 40000,
     "stock": 0
   },
