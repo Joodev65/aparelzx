@@ -4,8 +4,8 @@
     "stock": 0
   },
   "Raccon": {
-    "price": 150000,
-    "stock": 2
+    "price": 80000,
+    "stock": 1
   },
   "Disco bee": {
     "price": 70000,
@@ -13,10 +13,10 @@
   },
   "Trex": {
     "price": 20000,
-    "stock": 0
+    "stock": 1
   },
   "Corupt kitsune": {
-    "price": 10000,
+    "price": 8000,
     "stock": 23
   },
   "Spino": {
