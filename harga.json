@@ -17,7 +17,7 @@
   },
   "Corupt kitsune": {
     "price": 8000,
-    "stock": 21
+    "stock": 9
   },
   "Spino": {
     "price": 30000,
@@ -25,15 +25,15 @@
   },
   "Dragon fly": {
     "price": 25000,
-    "stock": 1
+    "stock": 5
   },
   "Butter fly": {
     "price": 40000,
     "stock": 0
   },
   "Mimic octopus": {
-    "price": 15000,
-    "stock": 0
+    "price": 18000,
+    "stock": 5
   },
   "Queen bee": {
     "price": 13000,
