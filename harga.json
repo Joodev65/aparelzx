@@ -8,8 +8,8 @@
     "stock": 1
   },
   "Disco bee": {
-    "price": 70000,
-    "stock": 0
+    "price": 75000,
+    "stock": 1
   },
   "Trex": {
     "price": 20000,
@@ -17,7 +17,7 @@
   },
   "Corupt kitsune": {
     "price": 8000,
-    "stock": 9
+    "stock": 5
   },
   "Spino": {
     "price": 30000,
@@ -25,15 +25,15 @@
   },
   "Dragon fly": {
     "price": 25000,
-    "stock": 5
+    "stock": 9
   },
   "Butter fly": {
-    "price": 40000,
-    "stock": 0
+    "price": 43000,
+    "stock": 1
   },
   "Mimic octopus": {
     "price": 18000,
-    "stock": 5
+    "stock": 2
   },
   "Queen bee": {
     "price": 13000,
