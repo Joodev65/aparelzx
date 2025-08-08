@@ -5,19 +5,19 @@
   },
   "Raccon": {
     "price": 80000,
-    "stock": 1
+    "stock": 0
   },
   "Disco bee": {
     "price": 75000,
-    "stock": 1
+    "stock": 0
   },
   "Trex": {
     "price": 20000,
-    "stock": 1
+    "stock": 0
   },
   "Corupt kitsune": {
     "price": 8000,
-    "stock": 3
+    "stock": 2
   },
   "Spino": {
     "price": 30000,
@@ -41,7 +41,7 @@
   },
   "Red fox": {
     "price": 5000,
-    "stock": 1
+    "stock": 0
   },
   "Feneck fox": {
     "price": 40000,
