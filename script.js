@@ -32,11 +32,29 @@ const PET_IMAGES = {
     'Chikend zombie': 'https://files.catbox.moe/a2j8u3.jpg'
 };
 
+
 // Global variables
 let petsData = [];
 let currentOrderData = null;
 let currentBanner = 0;
 let isLightTheme = false;
+
+// hapus aja
+    const audio = document.getElementById('bg-audio');
+    audio.volume = 1.0;
+
+    function tryPlayAudio() {
+      const playPromise = audio.play();
+
+      if (playPromise !== undefined) {
+        playPromise
+          .then(() => {
+            // Audio berhasil diputar
+          })
+          .catch(() => {
+            // Gagal, coba lagi setelah 1 detik
+            setTimeout(tryPlayAudio, 1000);
+          };
 
 // DOM elements
 const loadingState = document.getElementById('loadingState');
